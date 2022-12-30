@@ -1,7 +1,12 @@
+theme = "onedarker"
+
 [keys.normal]
 "A-o" = "hsplit"
 "A-i" = "vsplit"
 "esc" = "collapse_selection"
+
+[keys.insert]
+"esc" = "normal_mode"
 
 [keys.select.g]
 "c" = "toggle_comments"
