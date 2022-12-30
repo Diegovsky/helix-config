@@ -1,0 +1,10 @@
+[keys.normal]
+"A-o" = "hsplit"
+"A-i" = "vsplit"
+"esc" = "collapse_selection"
+
+[keys.select.g]
+"c" = "toggle_comments"
+
+[keys.normal.g.c]
+"c" = "toggle_comments"
